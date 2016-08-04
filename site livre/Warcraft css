@@ -1,0 +1,35 @@
+h1{
+	color:red;
+	text-align:center;
+	font-size:60pt;
+} 
+h2{
+	color:green;
+	text-align:center;
+	font-size:60pt;
+}
+h3{color:green;
+	text-align:center;
+	font-size:50pt;
+	
+}
+p{
+	color:yellow;
+	text-align:center;
+	font-size:35pt;
+}
+#container{
+	margin-left:13%;
+	margin-right:13%;
+	
+}
+
+html{
+	background: #FFFFFF url(Warcraft-678x381.jpg) no-repeat center center fixed;
+	min-height:100%;
+	-webkit-background-size:cover;
+		-moz-background-size:cover;
+			-o-background-size:cover;
+				background-size:cover;
+	opacity:1;
+}
